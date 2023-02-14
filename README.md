@@ -8,4 +8,4 @@ First install ergo https://github.com/cristianoliveira/ergo#installation
 
 Run `ergo setup <operating-system>`
 
-Then run `ergo run` in this directory
+Then run `ergo run` in this directory.
