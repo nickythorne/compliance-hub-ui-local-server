@@ -1,4 +1,4 @@
-# Compliance Hub UI Server 1234
+# Compliance Hub UI Server
 
 This package allows you to bootstrap local UI development by creating dedicated hosts for each of the webapps.
 Edit 
